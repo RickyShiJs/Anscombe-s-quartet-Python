@@ -1,11 +1,10 @@
 # Anscombe-s-quartet-Python
 
 ##
-This code is to expliain Anscombe's quartet refer to https://en.wikipedia.org/wiki/Anscombe%27s_quartet
+This code is to expliain Anscombe's quartet refer to https://en.wikipedia.org/wiki/Anscombe%27s_quartet .
 To prove why we need data visualization
 
 ``` python
-var (
 # This code is to expliain Anscombe's quartet refer to https://en.wikipedia.org/wiki/Anscombe%27s_quartet
 # To prove why we need data visualization
 import matplotlib.pyplot as plt
@@ -58,7 +57,8 @@ calc(data4_X, data4_Y)
 
 ```
 
-##Result
+##
+Result
 ```
 Dataset1 :
 ===================
